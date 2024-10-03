@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\forms jj\forms jj\bin\Debug\forms jj.exe.config
+C:\Users\Usuario\Desktop\forms jj\forms jj\bin\Debug\forms jj.exe
+C:\Users\Usuario\Desktop\forms jj\forms jj\bin\Debug\forms jj.pdb
+C:\Users\Usuario\Desktop\forms jj\forms jj\obj\Debug\forms jj.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\forms jj\forms jj\obj\Debug\forms_jj.Form1.resources
+C:\Users\Usuario\Desktop\forms jj\forms jj\obj\Debug\forms_jj.Properties.Resources.resources
+C:\Users\Usuario\Desktop\forms jj\forms jj\obj\Debug\forms jj.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\forms jj\forms jj\obj\Debug\forms jj.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\forms jj\forms jj\obj\Debug\forms jj.exe
+C:\Users\Usuario\Desktop\forms jj\forms jj\obj\Debug\forms jj.pdb
